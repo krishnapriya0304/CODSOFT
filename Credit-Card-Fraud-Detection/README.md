@@ -82,4 +82,9 @@ The model successfully detects fraudulent transactions with high accuracy. SMOTE
 
 ## Dataset
 
-Credit Card Fraud Detection Dataset
+The dataset used for this project is too large to be uploaded to GitHub.
+
+You can download it from:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+After downloading, place `creditcard.csv` in the project folder before running the notebook.
